@@ -1,4 +1,5 @@
 # AIStorm
+- [Redit](https://www.reddit.com/r/ClaudeAI/comments/1j64iaf/using_claude_to_develop_a_small_software_project/)
 
 AIStorm is a multi-agent brainstorming application that enables interactive conversations between multiple AI agents with different roles and personalities. This Blazor Server application facilitates creative idea generation, problem-solving, and collaborative thinking through AI-powered conversations.
 
